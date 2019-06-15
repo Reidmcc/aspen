@@ -13,4 +13,5 @@
 
 vendor/
 bin/
+specs/
 cobra.yaml
